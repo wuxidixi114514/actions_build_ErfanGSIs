@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://bigota.d.miui.com/20.4.27/miui_MIMIX3_20.4.27_8f7879221b_10.0.zip
-  ROM_NAME: MIUI
+  ROM_URL: https://download-cdn.cjjd19.com/123-506/c0964a01/1819490019-0/c0964a01ec20a184465724924101b9fa/c-m71?v=1&t=1755945158&s=295d09f937cf4c539dde37ea5bdd56ad&bzc=1&bzs=1820913880&bzp=0&bi=177253472&filename=Color+OS+13.25.02.23+OPPO+Find+X5.zip&x-mf-biz-cid=c401381d-4254-4597-af79-4538385f8ef0-47df1e&ndcp=1&cache_type=1
+  ROM_NAME: ColorOS
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
 
